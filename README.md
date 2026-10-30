@@ -117,3 +117,21 @@ This project is developed as a personal software development project using Andro
 ## 📄 License
 
 This project is currently available for educational and personal development purposes. A formal open-source license can be added when the project owner chooses one.
+## 📸 NOVA PC Controller Screenshots
+
+### Login Dashboard
+![NOVA Login](screenshots/login.png)
+
+### 1. Home Dashboard
+
+![NOVA Home](screenshots/home.png)
+
+### 2. Nova Connect
+
+![PC Connection](screenshots/pc-connect.png)
+
+### 3. Feature Dashboard
+
+![Features](screenshots/features.png)
+
+
