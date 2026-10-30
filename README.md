@@ -120,18 +120,18 @@ This project is currently available for educational and personal development pur
 ## 📸 NOVA PC Controller Screenshots
 
 ### Login Dashboard
-![NOVA Login](screenshots/login.png)
+![NOVA Login](login.png)
 
 ### 1. Home Dashboard
 
-![NOVA Home](screenshots/home.png)
+![NOVA Home](Home.png)
 
 ### 2. Nova Connect
 
-![PC Connection](screenshots/pc-connect.png)
+![PC Connection](Nova-connect.png)
 
 ### 3. Feature Dashboard
 
-![Features](screenshots/features.png)
+![Features](Feature.png)
 
 
